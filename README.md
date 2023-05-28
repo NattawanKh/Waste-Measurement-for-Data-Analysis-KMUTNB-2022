@@ -3,10 +3,10 @@
 **Components Required** <br>
 | COMPONENTS NAME |  QUANTITY| 
 |-----------------|----------|
-| NodeMCU ESP32   |    1     |
-| Arduino Nano    |    3     |
-| LoRa SX1278     |    4     |
-| HC-SR04P        |    6     |
+| NodeMCU ESP32   |     1     |
+| Arduino Nano    |     3     |
+| LoRa SX1278     |     4     |
+| HC-SR04P        |     6     |
 
 **Members**<br>
 > 1) Natchanon Sangthong  &nbsp; ID : 6301072510061 <br>
