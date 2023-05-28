@@ -1,4 +1,4 @@
-## Engineering Project Waste Measurement for Data Analysis | KMUTNB 2022
+##  Waste Measurement for Data Analysis | KMUTNB Engineering Project 2022
 
 **Components Required** <br>
 | COMPONENTS NAME |  QUANTITY| 
