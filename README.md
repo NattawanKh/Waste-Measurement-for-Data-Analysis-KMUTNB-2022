@@ -1,5 +1,11 @@
 ##  Waste Measurement for Data Analysis | KMUTNB Engineering Project 2022
 
+- Create a system that will monitor the level of the trash can and create user-accessible databases.
+- Hardware design, circuit design and PCB Development.
+- Using C++ to program IOT devices such as Arduino, NodeMCU, and LoRa for data transmission.
+- Design a flow in Node-Red for monitoring , notifications of any anomalies and create database to InfluxDB.
+- Using Grafana Dashboard for Database visualization that accessible for user.
+
 **Components Required** <br>
 | COMPONENTS NAME |  QUANTITY| 
 |-----------------|----------|
